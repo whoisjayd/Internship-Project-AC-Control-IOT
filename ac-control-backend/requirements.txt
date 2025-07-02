@@ -1,0 +1,35 @@
+# FastAPI framework for building APIs
+fastapi~=0.115.12
+
+# ASGI server for running FastAPI applications
+uvicorn[standard]~=0.34.2
+
+# SQLAlchemy for database interactions (ORM)
+sqlalchemy~=2.0.41
+
+# PyJWT for creating and verifying JSON Web Tokens
+pyjwt~=2.10.1
+
+# Bcrypt for hashing passwords
+bcrypt~=4.3.0
+
+# Pydantic for data validation and settings management
+pydantic[email]~=2.11.5
+
+# Python-dotenv for managing environment variables
+python-dotenv~=1.1.0
+
+# Paho-MQTT for MQTT client communication
+paho-mqtt~=2.1.0
+
+# Starlette for ASGI toolkit components
+starlette~=0.46.2
+
+# Aiohttp for making asynchronous HTTP requests
+aiohttp~=3.12.2
+
+# WebSockets for real-time communication
+websockets~=15.0.1
+
+# Asyncpg for asynchronous PostgreSQL driver
+asyncpg~=0.30.0
