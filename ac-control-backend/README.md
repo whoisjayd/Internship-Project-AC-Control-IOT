@@ -56,12 +56,12 @@ A robust IoT management system for air conditioning units, built with **FastAPI*
 ## 🏗️ Architecture
 
 ### System Overview
-![API Workflow](..\assets\api-workflow.png)
+![API Workflow](/assets/api-workflow.png)
 
 The system leverages a microservices-inspired architecture, deployed on Google Cloud Run for scalability and reliability.
 
 ### Database Schema
-![Database ER Diagram](..\assets\database-er-diagram.png)
+![Database ER Diagram](/assets/database-er-diagram.png)
 
 ## 🚀 Quick Start
 

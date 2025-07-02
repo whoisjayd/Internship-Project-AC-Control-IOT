@@ -5,7 +5,7 @@
 
 This project contains the firmware for an ESP8266-based IoT device to control an Air Conditioner unit remotely. It uses an IR LED to send commands to the AC and can be integrated with a home automation system via MQTT.
 
-![Firmware Workflow](..\assets\firmware-workflow.png)
+![Firmware Workflow](/assets/firmware-workflow.png)
 
 ## Features
 
