@@ -16,10 +16,11 @@
 
 ## 📋 Project Overview
 
-This project was developed during an 8-week summer internship at **Elipsis Infotech** (May 5 - June 28, 2025) to create a complete IoT ecosystem for centralized air conditioning control. The system allows multiple AC units to be controlled remotely through a unified dashboard, enabling efficient climate management across large workspaces.
+This project was developed during an 8-week summer internship at **Ellipsis Infotech** (May 5 - June 28, 2025) to create a complete IoT ecosystem for centralized air conditioning control. The system allows multiple AC units to be controlled remotely through a unified dashboard, enabling efficient climate management across large workspaces.
 
 ### 🏢 Internship Details
-- **Company**: [Elipsis Infotech](https://www.linkedin.com/company/elipsis-infotech/)
+- **Company**: [Linkedin 
+](https://www.linkedin.com/company/ellipsis-infotech) | [Website](https://www.ellipsisinfotech.com/)
 - **Duration**: 8 weeks (May 5, 2025 - June 28, 2025)
 - **Mentor**: [Shyamal Shah](https://in.linkedin.com/in/shyamalmshah)
 - **Team Members**: 
